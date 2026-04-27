@@ -32,3 +32,33 @@ A Machine Learning-based web application that predicts house prices based on var
 ---
 
 ## 📂 Project Structure
+
+
+---
+
+## ⚙️ How It Works
+
+1. User enters property details:
+   - BHK, Bathrooms, Balcony
+   - Carpet Area
+   - Floor details
+   - Furnishing type
+   - Facing direction
+
+2. Data is processed:
+   - Feature encoding (categorical → numeric)
+   - Structured input creation
+
+3. Model predicts house price
+
+4. Output displayed:
+   - Estimated price in ₹
+
+---
+
+## ▶️ Run Locally
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/mnsankhat/House-Price-Prediction
+cd house-price-prediction
