@@ -60,5 +60,5 @@ A Machine Learning-based web application that predicts house prices based on var
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/mnsankhat/House-Price-Prediction
+git clone https://github.com/maheshsankhat/House-Price-Prediction
 cd house-price-prediction
